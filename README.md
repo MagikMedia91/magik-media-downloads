@@ -16,7 +16,7 @@ Includes Live TV, Movies, Series, category filters, automatic guide loading, fav
 
 ## Updates
 
-From version 1.2 onward, use **SETTINGS → CHECK FOR UPDATES** to download and install updates over the existing app. In-place updates retain saved servers, encrypted usernames/passwords, favourites and settings. A fresh installation starts without saved server credentials.
+From version 1.2 onward, use **SETTINGS → CHECK FOR UPDATES** to download and install updates over the existing app. In-place updates retain saved servers, encrypted usernames/passwords, favourites and settings. After an update succeeds, the downloaded installer is automatically removed the next time the updated app opens. A fresh installation starts without saved server credentials.
 
 The download link and Downloader code above always point to the latest published APK and can also be installed over an existing copy without uninstalling it.
 
